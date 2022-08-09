@@ -1,6 +1,11 @@
-// 'hello everyone' //
-/*
-'today is a great day for learning'
-/*
-console.log ('my name is Jay')
-console.log ('my favorite food is Sushi')
+// hello everyone //
+
+/* 
+learning new things can be fun
+*/
+
+const myObj = {firstname:"Jason", lastname:"Marine"};
+console.log(myObj);
+
+let myArr = ["Seafood", "Bar-B-Que", "Pastas", "Sushi"];
+console.log(myArr);
